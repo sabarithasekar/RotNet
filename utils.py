@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 from keras.preprocessing.image import Iterator
-from keras.utils.np_utils import to_categorical
+from keras.utils import to_categorical
 import keras.backend as K
 
 
